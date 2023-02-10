@@ -1,0 +1,19 @@
+body{
+
+}
+.wrapper{
+	width: 70%;
+	margin: 0 auto;
+}
+.bg-green{
+	background-color: #24827C;
+}
+.white-text{
+	color: #fff;
+}
+.right.aligned {
+  text-align: right;
+}
+.item_name{
+	width: 85% !important;
+}
